@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\61676\source\repos\结构体和指针\结构体和指针\源.c(94,18): warning C4047: “=”:“int”与“Node *”的间接级别不同
+C:\Users\61676\source\repos\结构体和指针\结构体和指针\源.c(96,14): warning C4022: “free”: 指针与实参 1 不匹配
+  结构体和指针.vcxproj -> C:\Users\61676\source\repos\结构体和指针\Debug\结构体和指针.exe
